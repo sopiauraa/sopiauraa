@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Sopi Aura Nisa 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="50px">
+</p>
 
-<!--
-**sopiauraa/sopiauraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+👩‍💻 **Web Developer & UI/UX Enthusiast**  
+🎨 Passionate about *creating beautiful and functional web experiences*  
+🚀 Always exploring *new technologies and creative designs*  
+🎯 Current Goal: *Build unique and interactive projects*  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+### 🖌️ Design Tools
+- Figma
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sopiauraa&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sopiauraa&theme=tokyonight" />
+  <br />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/sopiauranisa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
+  </a>
+  <a href="https://instagram.com/sopiaur_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40px" />
+  </a>
+</p>
+
+---
+
+🌟 *Thanks for stopping by! Let's build something amazing together!* 🌟
