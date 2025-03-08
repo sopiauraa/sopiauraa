@@ -1,11 +1,5 @@
 <h1 align="center">✨ Hi there, I'm Sopi Aura Nisa 👋 ✨</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="150px">
-</p>
-
----
-
 ## 🌸 About Me
 🎓 A student at **Universitas Sumatera Utara**, Faculty of Information Technology.  
 🎨 Passionate about *creating beautiful and functional web experiences*.  
@@ -25,9 +19,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sopiauraa&show_icons=true&theme=radical" />
-  <br />
+  <br /> <br /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sopiauraa&theme=radical" />
-  <br />
+  <br /> <br /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopiauraa&layout=compact&theme=radical" />
 </p>
 
