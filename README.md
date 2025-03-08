@@ -1,35 +1,34 @@
-# Hi there, I'm Sopi Aura Nisa 👋
+<h1 align="center">✨ Hi there, I'm Sopi Aura Nisa 👋 ✨</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="150px">
 </p>
 
-## About Me
+---
 
-👩‍💻 **Web Developer & UI/UX Enthusiast**  
-🎨 Passionate about *creating beautiful and functional web experiences*  
-🚀 Always exploring *new technologies and creative designs*  
-🎯 Current Goal: *Build unique and interactive projects*  
+## 🌸 About Me
+🎓 A student at **Universitas Sumatera Utara**, Faculty of Information Technology.  
+🎨 Passionate about *creating beautiful and functional web experiences*.  
+🚀 Always exploring *new technologies and creative designs*.  
+💡 Love solving problems & making things visually appealing.  
+
 ---
 
 ## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
 
-### 🖌️ Design Tools
-- Figma
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,mysql,figma" />
+</p>
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sopiauraa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sopiauraa&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sopiauraa&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sopiauraa&theme=radical" />
   <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopiauraa&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -46,5 +45,3 @@
 </p>
 
 ---
-
-🌟 *Thanks for stopping by! Let's build something amazing together!* 🌟
