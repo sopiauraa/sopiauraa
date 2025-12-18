@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, I'm Sopi Aura Nisa 👋 ✨</h1>
+<h1 align="center"> I'm Sopi Aura Nisa </h1>
 
 ## 🌸 About Me
 🎓 A student at **Universitas Sumatera Utara**, Faculty of Information Technology.  
@@ -25,17 +25,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopiauraa&layout=compact&theme=radical" />
 </p>
 
----
 
-## 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/sopiauranisa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
-  </a>
-  <a href="https://instagram.com/sopiaur_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40px" />
-  </a>
-</p>
-
----
