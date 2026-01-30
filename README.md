@@ -25,42 +25,17 @@ I'm a student at **Universitas Sumatera Utara**, Faculty of Information Technolo
 - MySQL
 
 **Tools**
+- Visual Studio Code
+- Cursor
 - Figma
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,vscode,figma" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sopiauraa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sopiauraa&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopiauraa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out for collaboration, questions, or just to say hi!
-
-<p align="center">
-  <!-- Add your social media links here -->
-  <!-- Example: -->
-  <!-- <a href="your-linkedin"><img src="linkedin-icon" /></a> -->
-  <!-- <a href="your-email"><img src="email-icon" /></a> -->
-</p>
-
----
 
 <p align="center">
   <em>⭐️ From <a href="https://github.com/sopiauraa">sopiauraa</a></em>
